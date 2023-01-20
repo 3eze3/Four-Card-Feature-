@@ -3,8 +3,7 @@
 :root {
   --negro: #393939;
   /* Tipografía */
-  --tipo-principal: Helvetica, Arial, sans-serif;
-  --tipo-secundaria: Verdana;
+  --tipo-principal: 'Poppins', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -141,7 +140,7 @@ svg {
 
 body {
   min-height: 100vh;
-  font-size: 100%;
+  font-size: 15px;
   font-family: var(--tipo-principal);
   color: var(--negro);
   line-height: 1.4em;
