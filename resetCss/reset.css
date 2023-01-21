@@ -140,7 +140,7 @@ svg {
 
 body {
   min-height: 100vh;
-  font-size: 15px;
+  font-size: .9375em;
   font-family: var(--tipo-principal);
   color: var(--negro);
   line-height: 1.4em;
